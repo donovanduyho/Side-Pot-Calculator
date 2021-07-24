@@ -60,7 +60,7 @@ if (userChoice == 'Y'):
     print('- ANYONE OTHER THAN THE LOWEST BETTER IS ALLOWED TO TAKE BOTH POTS')
     print('')
     print('THANK YOU')
-    
+    print('')
 else:
     print('THANK YOU')
     print('')
